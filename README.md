@@ -6,8 +6,7 @@ The following Jupyter notebooks provide an example on how to analyze raw imaging
 
 
 
-Raw imaging data is available here:
-
+Raw imaging data is available at the Brain Knowledge Platform and Brain Image Library (https://knowledge.brain-map.org/data/KD2K0QPHBRWTNKYDUKB and https://knowledge.brain-map.org/data/7GQI8P3P8R40B6LPV9R/summary). 
 
 Contributors: Bogdan Bintu, Yoh Isogai, Xiaowei Zhuang and Catherine Dulac.
 
